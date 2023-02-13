@@ -1,4 +1,4 @@
 # Applied-Statistics-exercizes
-<br>Sampling techniques
-<br>Correlation
+# <br>Sampling techniques
+# <br>Correlation
 
